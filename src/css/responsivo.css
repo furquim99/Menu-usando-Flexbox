@@ -1,0 +1,24 @@
+@media(max-width: 650px){
+    .header{
+        flex-direction: column;
+
+    } 
+
+    .logo a {
+        font-size: 4rem;
+    }
+    .Menu{
+        flex-direction: column;
+        margin-top: 50px;
+    } 
+    
+    .Menu li {
+        padding: 33px;
+    }
+    .Menu li a{
+        font-size: 4rem;
+        padding: 17px 40px;
+        
+    }
+
+}
